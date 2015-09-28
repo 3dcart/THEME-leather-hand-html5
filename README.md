@@ -1,4 +1,4 @@
-# 3dcart Premium Theme: leather-hand-html5
+# 3dcart Theme: leather-hand-html5
 
 http://themes.3dcart.com/???
 
