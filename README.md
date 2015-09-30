@@ -1,6 +1,6 @@
 # 3dcart Theme: leather-hand-html5
 
-http://themes.3dcart.com/???
+http://themes.3dcart.com/Leather-hand-html5_p_206.html
 
 ## Installation
 
