@@ -1444,8 +1444,8 @@ ul#desktopMenu li ul li:hover {
 #showSlideMenu{
 	padding-top:10px;
 	float:left;
-	width:54%;
-	height:35px;
+	width:240px;
+	height:100%;
 	overflow:hidden;
 }
 .top-menu{
